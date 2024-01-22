@@ -1,0 +1,9 @@
+html, body, #app, #app>div {
+  height: 100%;
+  margin: auto;
+  background-color: #1c1b1b;
+}
+
+#root {
+  height: 90vh;
+}

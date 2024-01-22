@@ -1,0 +1,62 @@
+.column {
+    display: flex;
+    color: white;
+    background-color: #333;
+    margin: 10px 100px 9px 100px;
+    padding: 6px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-family: 'Prompt', sans-serif;
+}
+.column:hover{
+    background-color:  #292323;
+}
+.content {
+    margin: 23px 0;
+}
+.content h1 {
+    text-align: center;
+    font-family: 'Prompt', sans-serif;
+}
+.difficulty.column{
+    float: right;
+}
+.id{
+    width: 5%;
+    margin-left: 8px;
+}
+.title{
+    width: 70%;
+}
+.title1 {
+    width: 59%;
+}
+.acceptance{
+    width: 20%;
+}
+.difficulty{
+    width: 10%;
+}
+.edit {
+    background-color: blue;
+    color: #f5f5f5;
+    border: none;
+    font-family: 'Prompt', sans-serif;
+    width: 60px;
+    height: 34px;
+    margin-right: 9px;
+    margin-top: 11px;
+    border-radius: 9px;
+}
+.delete {
+    background-color: red;
+    color: #f5f5f5;
+    border: none;
+    font-family: 'Prompt', sans-serif;
+    width: 60px;
+    height: 34px;
+    margin-right: 9px;
+    margin-top: 11px;
+    border-radius: 9px;
+    z-index: 100;
+}

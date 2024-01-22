@@ -1,0 +1,41 @@
+.greet{
+  text-align: center;
+  
+}
+.home-container{
+  display: flex;
+}
+.left-section{
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  width: 67%;
+  height: auto;
+  background: #333 ;
+  border-radius: 8px;
+}
+.right-section{
+  width: 30%;
+  height: 900px;
+  background: #333 ;
+  margin-left: 3%;
+  border-radius: 8px;
+}
+img.interview {
+  width: 386px;
+  border-radius: 15px;
+  margin-left: 37px;
+  margin-top: 37px;
+}
+h1{
+  color: white;
+}
+li.section-1 {
+  width: 918px;
+  background-color: #1c1b1b;
+  padding: 20px 15px 20px 15px;
+  list-style-type: none;
+  margin-bottom: 20px;
+  font-size: 16px;
+  line-height: 39px;
+  border-radius: 5px;
+}

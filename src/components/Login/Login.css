@@ -1,0 +1,11 @@
+#login {
+    height: 100%;
+}
+.forget-pass-l{
+    display: flex;
+}
+.forget-pass-l p{
+    color: black;
+    padding-right: 43px;
+    padding-left: 63px;
+}

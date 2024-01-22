@@ -1,0 +1,65 @@
+#signup {
+    min-height: 100%;
+}
+
+.subform {
+    margin: 1rem;
+    font-family: 'Prompt', sans-serif;
+    color: #f5f5f5;
+}
+
+.signup-form {
+    background-color: white;
+    height: 470px;
+    width: 30%;
+    max-width: 550px;
+    border: 1px solid grey;
+    position: relative;
+    overflow: hidden;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 0.5rem;
+    box-shadow: 0 3px 3px -2px lightblue;
+    margin-top: 120px;
+}
+
+.subform > input {
+    width: 350px;
+    height: 35px;
+    /* margin-left: 58px; */
+}
+.button {
+    padding: 8px 16px;
+    font-size: 16px;
+    background-color: blue;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    width: 150px;
+    align-self: center;
+    margin-top: 35px;
+    cursor: pointer;
+    font-family: 'Prompt', sans-serif;
+  }
+  button#test {
+    background-color: blue;
+}
+h3{
+    color: black;
+    /* margin-left: 70px; */
+}
+.logo1{
+    width: 100px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.forget-pass{
+    display: flex;
+}
+.forget-pass p{
+    color: black;
+}
